@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a chess training app.<br>I’m studying IT engineering in ISEN CAEN, France.<br>I'm currently searching for a work-study program in IT.
+I’m currently working on a cheet sheets generator using AI and making a Godot game.<br>I’m studying IT engineering in ISEN CAEN, France.<br>I'm currently searching for a work-study program in IT.
 
 
 ## 🌐 Socials:
